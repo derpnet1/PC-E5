@@ -1,0 +1,4 @@
+https://qastack.mx/programming/9964823/how-to-check-if-a-file-is-empty-in-bash
+https://pypi.org/project/jq/
+https://terminalcheatsheet.com/es/guides/curl-rest-api
+https://www.ochobitshacenunbyte.com/2019/05/21/como-leer-un-archivo-linea-a-linea-en-bash/at info.txt
